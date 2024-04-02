@@ -1,0 +1,4 @@
+Mi nombre es Karen
+git config --global user.name KarenCristancho 
+
+git config --global user.email karenlorenacriscaceres@gmail.com
