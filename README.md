@@ -1,4 +1,4 @@
-# Configuración de Git
+# ⚙️Configuración de Git
 Este archivo contiene la configuración de Git para el usuario Karen. A continuación, se detallan los comandos utilizados para establecer la configuración global de Git:
 ## Tabla de contenidos
 | Indice | Titulo  |
@@ -7,7 +7,7 @@ Este archivo contiene la configuración de Git para el usuario Karen. A continua
 | 2 | Correo |
 | 3 | Mensaje |
 
-### Instalación
+### ✔️Instalación
 Deberas ejecutar el comando git clone para copiar el repositorio
   [Link](https://github.com/KarenLore/Karen.git)
 
@@ -51,3 +51,8 @@ Hecho por ***Karen Lorena Cristancho Caceres***
 
 > [!CAUTION]
 > Evita utilizar correos electrónicos de uso personal en proyectos públicos si prefieres mantener tu dirección privada. Considera utilizar una dirección de correo electrónico específica para el desarrollo si trabajas en proyectos de código abierto o colaborativos.
+
+### 📞Contacto
+  Para preguntas, sugerencias o más información sobre el proyecto, no dudes en ponerte en contacto conmigo:
+  Nombre: Karen Lorena Cristancho
+  Email: karenlorenacriscaceres@gmail.com
